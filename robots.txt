@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-1fb6e0454f.plhik.cn/sitemap.xml
